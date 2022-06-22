@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-api",
+  "version": "1.35.0",
+  "description": "Testando api do whatsapp",
+  "main": "(index.js) app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ale Premier - Allexus Technology",
+  "license": "MIT",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.17.0"
+  }
+}
